@@ -53,5 +53,3 @@ public class GenerateInfoFiles {
         writer.close();
     }
 }
-
-Agregando clase GenerateInfoFiles
