@@ -1,0 +1,5 @@
+Durante el desarrollo del proyecto se adquirieron conocimientos en el manejo de archivos en Java, el uso de estructuras como HashMap y el procesamiento de datos.
+
+Estos conocimientos son importantes en el ámbito profesional para analizar información de manera eficiente.
+
+Una dificultad fue la lectura de archivos y el manejo de errores, lo cual permitió mejorar la lógica de programación.
