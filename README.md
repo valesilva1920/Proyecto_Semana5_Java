@@ -1,11 +1,11 @@
-# Proyecto Semana 5 - Java
+# Proyecto Semana 7
 
-Este proyecto genera y procesa archivos de ventas en Java.
+Este proyecto genera y procesa datos de ventas en Java.
 
-## Funcionalidades
-- Generación de archivos
-- Procesamiento de datos
-- Reportes en CSV
+## Ejecución
+1. Ejecutar GenerateInfoFiles
+2. Ejecutar Main
 
-## Lenguaje
-Java
+## Salidas
+- SalesReport.csv
+- ProductSales.csv
